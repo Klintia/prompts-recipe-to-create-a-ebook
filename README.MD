@@ -6,7 +6,7 @@ Este é um eBook criado para ensinar de forma simples e descomplicada sobre inve
 
 ## Sobre o Projeto
 
-O objetivo deste eBook é gerar um ebook digital com as facilidades das ferramentas de IA apresentando os principais investimentos de renda fixa de forma clara e objetiva, para uma criança com exemplos que facilitam a compreensão. A ideia é ajudar o leitor a entender os conceitos de forma simples e divertida, mesmo sem experiência prévia no mercado financeiro.
+O objetivo deste projeto é gerar um eBook digital com as facilidades das ferramentas de IA apresentando os principais investimentos de renda fixa de forma clara e objetiva para uma criança, com exemplos que facilitam a compreensão. A ideia é ajudar o leitor a entender os conceitos de forma simples e divertida, mesmo sem experiência prévia no mercado financeiro.
 LINK: https://github.com/Klintia/prompts-recipe-to-create-a-ebook/blob/main/Ebook%20-%20Dinheiro%20M%C3%A1gico.pdf
 
 
