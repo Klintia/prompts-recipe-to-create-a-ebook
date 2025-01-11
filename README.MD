@@ -1,6 +1,6 @@
 # Guia Simples de Investimentos em Renda Fixa
 
-Este é um eBook criado para ensinar de forma simples e descomplicada sobre investimentos em **renda fixa**, com foco em iniciantes. O material foi escrito de forma acessível, com exemplos práticos e explicações fáceis de entender, ideal para quem quer começar a investir sem complicação.
+Este é um eBook criado para ensinar de forma simples e descomplicada sobre investimentos em **renda fixa**, com foco em crinaças. O material foi escrito de forma acessível, com exemplos práticos e explicações fáceis de entender, ideal para quem quer começar a investir sem complicação.
 
 ---
 
